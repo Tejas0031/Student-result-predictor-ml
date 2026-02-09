@@ -66,14 +66,5 @@ Chosen because the task is a **classification problem** rather than regression.
 - Evaluating models using confusion matrix  
 - Building a complete ML pipeline end-to-end  
 
----
 
-## Future Improvements
-- Use real student datasets  
-- Try advanced classifiers (Random Forest, SVM, XGBoost)  
-- Build a simple web interface for predictions  
 
----
-
-## Author
-Your Name
